@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2a8c08086f1f3f74a9ab257ad0732efa, type: 3}
-  m_Name: HammerSO
+  m_Name: Axe
   m_EditorClassIdentifier: 
-  Icon: {fileID: 2800000, guid: 344e3b7520b5d024fab9d2443bc7e939, type: 3}
-  ItemName: Hammer
+  Icon: {fileID: 2800000, guid: d345d88a3b9e0f64da4ed39253aa0e8d, type: 3}
+  Cost: 1
+  ItemName: Axe
   isStackable: 0
   maxStack: 99

@@ -5,7 +5,6 @@ using UnityEngine.UI;
 public class ItemSO : ScriptableObject
 {
     public Texture Icon;
-    public int Cost = 1;
     public string ItemName;
     
     [Header("Stack settings")]
